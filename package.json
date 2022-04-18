@@ -1,0 +1,15 @@
+{
+  "name": "tz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress-ntlm open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.4",
+    "cypress-ntlm-auth": "^4.0.0"
+  }
+}
